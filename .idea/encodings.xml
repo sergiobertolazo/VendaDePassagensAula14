@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/DetalheVooActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/Especialista.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/ListaVooActivity.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/SectionIndexBuilder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/Util.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/ViewHolder.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/Voo.java" charset="windows-1252" />
+    <file url="file://$PROJECT_DIR$/app/src/main/java/com/br/sergio/vendadepassagensaula13/VooAdapter.java" charset="windows-1252" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>
